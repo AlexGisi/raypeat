@@ -1,0 +1,160 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title>Ray Peat Painterly Science Art Gallery</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="author" content="">
+<meta name="keywords" content="Ray Peat">
+<meta name="description" content="Ray Peat">
+
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+<link rel=stylesheet type=text/css href="../css/raypeat.css">
+
+<script src="../css/nav-collapse.js"></script>
+
+
+</head>
+
+
+
+<body background="../images/sideback2.gif" bgcolor="#ffffff"  topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+
+
+
+<div class="mug">
+<img src="../rotate/rotate.php" border="0"> 
+</div>
+
+
+
+
+
+<div class="sidebar">
+
+<span class=menu>
+
+<a href="../index.html">Home</a><br>
+<a href="../articles/index.html">Articles</a><br>
+<a href="../about.shtml">About Ray Peat</a><br>
+<!--
+<a href="http://raypeat.com/bookstore/">Books/Newsletter</a><br-->
+<a href="index.html">Art Gallery</a><br>
+
+<!--
+<a href="http://raypeat.com/contact.shtml">Contact</a><br>
+-->
+<a href="../links.shtml">Links</a><br><br>
+</span>
+
+
+<div id="cse" style="width: 210;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('010699206337890362408:meu2mbkvbty');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+      
+
+<br>
+
+
+
+<br><br>
+
+<span class=footer>
+<center>
+www.RayPeat.com<br>
+&copy;2006-16 Ray Peat<br>
+All Rights Reserved<br>
+</center>
+</span>
+
+
+</div>
+
+
+
+
+<!-- CONTENT -->
+
+<div class="entries">
+<div class="line" style="text-align:justify">
+<table width=100% cellpadding=0 cellspacing=0 border=0><tr><td align=right>
+<html>
+<body>
+<a name=top></a>
+<img src="../images/rp3.gif" border="0" width=384 height=101>
+</body>
+</html>
+
+
+<!--
+<img src="../images/rp3.gif" border="0" width=384 height=101>
+ -->
+</td></tr></table>
+ <br><br>
+<span class=title>
+A R T &nbsp; G A L L E R Y<br><br>
+<table  width=100% cellpadding=3 cellspacing=1 border=0 bgcolor=dimgray><tr>
+<td  background="../images/back.gif" bgcolor=white  align=center><a href="index.shtml">Gallery 1</a></td>
+<td  bgcolor=white  align=center><a href="g2.shtml">Gallery 2</a></td>
+<td  bgcolor=white  align=center><a href="g3.shtml">Gallery 3</a></td>
+<td  bgcolor=white  align=center><a href="g4.shtml">Gallery 4</a></td>
+<td bgcolor=white align=center><a href="http://raypeat.com/art/g1.shtml">Gallery 5</a></td>
+</td></tr></table>
+
+
+<br>Painterly Science<br></span> 
+<br>
+<span class="posted"> 
+<table  align=right cellpadding=0 cellspacing=0 border=0><tr><td width=10><img src="spacer.gif" width=10 height=1>
+</td><td> 
+<img src="1b.jpg"><br>
+</td></tr></table>
+Painting and science have been closely associated historically, because both used to involve close, intense examination of their subject, generalization based on experience, and imaginative consideration of the possibilities. That has changed but not because of any intrinsic change in knowledge.<p>
+
+Knowledge always changes through time, but vested interests try to permit only those changes that are good for them. Authoritarian education derives its authority from political and economic power, and generally not from the quality of the knowledge it inculcates. As education became more important economically in the twentieth century, it became more specialized, in the sense that each teacher devoted his full time to an increasingly narrow topic. In this state, the specialist loses his authority when he ventures to evaluate the big picture.<p>
+
+In the 19th century, biologists were usually competent painters, but as specialization took over at the beginning of the 20th century, both science and painting became "abstract." Mathematics came to be called the language of science, and a science was considered to be more scientific when it was more mathematical. The mathematical habit of mind inclines biologists to see organisms as disembodied information, ultimately as the information contained in the genetic code. Change (they are likely to say) is random, "chaotic," ultimately unknowable. There is no place in this system for a radical critic of the purpose and direction of the system.<p>
+
+If physicists and biologists learn to see the world in a lively way by exercising the power to paint, they will learn to prevent the atrophy of their critical powers.<br>
+<br>
+<p>
+<center>
+<img src="24b.jpg"><br>
+<br>
+<table  width=100% cellpadding=3 cellspacing=1 border=0 bgcolor=dimgray><tr>
+<td  background="../images/back.gif" bgcolor=white  align=center><a href="index.shtml">Gallery 1</a></td>
+<td  bgcolor=white  align=center><a href="g2.shtml">Gallery 2</a></td>
+<td  bgcolor=white  align=center><a href="g3.shtml">Gallery 3</a></td>
+<td  bgcolor=white  align=center><a href="g4.shtml">Gallery 4</a></td>
+<td bgcolor=white align=center><a href="http://raypeat.com/art/g1.shtml">Gallery 5</a></td>
+</td></tr></table>
+
+<!-- START FOOTER -->
+<br>
+<center>
+<a href="index.shtml#top"><font size=5>^^^</font> Top <font size=5>^^^</font></a><br><br>
+</center>
+
+
+<!-- END FOOTER -->
+
+</span>
+</div>
+</div>
+
+<!-- END CONTENT -->
+
+
+</body></html>
+
+<!--
+
+-->

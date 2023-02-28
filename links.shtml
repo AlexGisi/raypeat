@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title>Ray Peat</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="author" content="">
+<meta name="keywords" content="Ray Peat">
+<meta name="description" content="Ray Peat">
+
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+<link rel=stylesheet type=text/css href="css/raypeat.css">
+
+<script src="css/nav-collapse.js"></script>
+
+
+</head>
+
+
+
+<body background="images/sideback2.gif" bgcolor="#ffffff"  topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+
+
+<div class="mug">
+<img src="rotate/rotate.php" border="0"> 
+</div>
+
+
+
+
+
+<div class="sidebar">
+
+<span class=menu>
+
+<a href="index.html">Home</a><br>
+<a href="articles/index.html">Articles</a><br>
+<a href="about.shtml">About Ray Peat</a><br>
+<!--
+<a href="http://raypeat.com/bookstore/">Books/Newsletter</a><br-->
+<a href="art/index.html">Art Gallery</a><br>
+
+<!--
+<a href="http://raypeat.com/contact.shtml">Contact</a><br>
+-->
+<a href="links.shtml">Links</a><br><br>
+</span>
+
+
+<div id="cse" style="width: 210;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('010699206337890362408:meu2mbkvbty');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+      
+
+<br>
+
+
+
+<br><br>
+
+<span class=footer>
+<center>
+www.RayPeat.com<br>
+&copy;2006-16 Ray Peat<br>
+All Rights Reserved<br>
+</center>
+</span>
+
+
+</div>
+
+
+
+
+<!-- CONTENT -->
+
+<div class="entries">
+<div class="line" style="text-align:justify">
+<table width=100% cellpadding=0 cellspacing=0 border=0><tr><td align=right>
+<html>
+<body>
+<a name=top></a>
+<img src="images/rp3.gif" border="0" width=384 height=101>
+</body>
+</html>
+
+
+<!--
+<img src="../images/rp3.gif" border="0" width=384 height=101>
+ -->
+</td></tr></table>
+ <br><br>
+<span class=title>
+L I N K S<br>
+</span>
+ <br><br>
+
+<span class=title>
+Interviews & Articles on the web</span>
+<br><br>
+
+<span class="posted">
+
+
+ <a href=http://www.thyroid-info.com/articles/ray-peat.htm>An Interview With Dr. Raymond Peat
+A Renowned Nutritional Counselor Offers His Thoughts About Thyroid Disease - from thyroid-info.com</a><br><br>
+ <a href=http://www.mercola.com/2001/mar/24/coconut_oil.htm>Coconut Oil: You Want a Food Loaded with Real Health Benefits? You Want Coconut Oil - by Ray Peat - from mercola.com</a><br><br>
+
+ <a href=http://www.coconutoil.com/ray_peat_coconutoil.htm>Coconut Oil -
+by Raymond Peat, Ph.D. - from coconutoil.com</a><br><br></span>
+
+<span class=title>
+<br>Other Related Links</span>
+<br><br>
+
+
+<span class="posted">
+
+Nutritional-metabolic counseling in English or Danish by biochemist Benedicte Mai Lerche, M.Sc., Ph.D.
+                    <a href=http://www.biochemnordic.com/><u>www.biochemnordic.com</a></u><p>
+
+Gilbert Ling, Ph.D. -- Gilbert Ling's work has created a scientific basis for cell physiology. When I began reading his work in 1968, I found that he had already resolved many of the basic issues that appeared to confuse most of those in the scientific establishment who were studying "membrane physiology." Anyone who reads his work will find that cells do not do the things described in the standard medical literature. His indictment of scientific fraud--on a scale "unknown in scientific history"-- and of anti-scientific stupidity, must eventually be accepted by anyone who would understand the present scientific-political establishment. <a href=http://www.gilbertling.org/><u>www.gilbertling.org</u></a><p>
+     
+<a href=http://thyroidhistory.net><u>ThyroidHistory.net</u></a> -- A website produced by thyroid patients to inform patients, doctors and others about the history of the development of thyroid diagnosis and treatment. It offers over 600 articles, abstracts, and book extracts with no editorial comment.<p>
+
+</span>
+</div>
+</div>
+<!-- END CONTENT -->
+
+</body></html>
+
+<!--
+
+-->

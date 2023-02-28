@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title>Ray Peat Painterly Science Art Gallery</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="author" content="">
+<meta name="keywords" content="Ray Peat">
+<meta name="description" content="Ray Peat">
+
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+
+<link rel=stylesheet type=text/css href="../css/raypeat.css">
+
+<script src="../css/nav-collapse.js"></script>
+
+
+</head>
+
+
+
+<body background="../images/sideback2.gif" bgcolor="#ffffff"  topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+
+
+
+<div class="mug">
+<img src="../rotate/rotate.php" border="0"> 
+</div>
+
+
+
+
+
+<div class="sidebar">
+
+<span class=menu>
+
+<a href="../index.html">Home</a><br>
+<a href="../articles/index.html">Articles</a><br>
+<a href="../about.shtml">About Ray Peat</a><br>
+<!--
+<a href="http://raypeat.com/bookstore/">Books/Newsletter</a><br-->
+<a href="index.html">Art Gallery</a><br>
+
+<!--
+<a href="http://raypeat.com/contact.shtml">Contact</a><br>
+-->
+<a href="../links.shtml">Links</a><br><br>
+</span>
+
+
+<div id="cse" style="width: 210;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('010699206337890362408:meu2mbkvbty');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+      
+
+<br>
+
+
+
+<br><br>
+
+<span class=footer>
+<center>
+www.RayPeat.com<br>
+&copy;2006-16 Ray Peat<br>
+All Rights Reserved<br>
+</center>
+</span>
+
+
+</div>
+
+
+
+
+<!-- CONTENT -->
+
+<div class="entries">
+<div class="line" style="text-align:justify">
+<table width=100% cellpadding=0 cellspacing=0 border=0><tr><td align=right>
+<html>
+<body>
+<a name=top></a>
+<img src="../images/rp3.gif" border="0" width=384 height=101>
+</body>
+</html>
+
+
+<!--
+<img src="../images/rp3.gif" border="0" width=384 height=101>
+ -->
+</td></tr></table>
+ <br><br>
+<span class=title>
+A R T &nbsp; G A L L E R Y<br><br>
+<table  width=100% cellpadding=3 cellspacing=1 border=0 bgcolor=dimgray><tr>
+<td  bgcolor=white  align=center><a href="index.shtml">Gallery 1</a></td>
+<td  bgcolor=white  align=center><a href="g2.shtml">Gallery 2</a></td>
+<td  background="../images/back.gif" bgcolor=white  align=center><a href="g3.shtml">Gallery 3</a></td>
+<td  bgcolor=white  align=center><a href="g4.shtml">Gallery 4</a></td>
+<td bgcolor=white align=center><a href="g5.shtml">Gallery 5</a></td>
+</td></tr></table>
+
+<br>Gallery 3<br>
+</span> 
+<br>
+<span class="posted"> 
+<table  align=center cellpadding=0 cellspacing=0 border=0><tr><td align=center> 
+
+<img src="12b.jpg" width=232 height=353><br><br>
+<img src="n7b.jpg" width=235 height=230>&nbsp;&nbsp;<img src="10b.jpg" width=219 height=220><br><br>
+<img src="youth-b.jpg" width=336 height=493><br><br>
+<img src="13b.jpg" width=360 height=522><br><br>
+</td><td>
+
+</td></tr></table>
+<center>
+
+<br>
+<table  width=100% cellpadding=3 cellspacing=1 border=0 bgcolor=dimgray><tr>
+<td  bgcolor=white  align=center><a href="index.shtml">Gallery 1</a></td>
+<td  bgcolor=white  align=center><a href="g2.shtml">Gallery 2</a></td>
+<td  background="../images/back.gif" bgcolor=white  align=center><a href="g3.shtml">Gallery 3</a></td>
+<td  bgcolor=white  align=center><a href="g4.shtml">Gallery 4</a></td>
+<td bgcolor=white align=center><a href="g5.shtml">Gallery 5</a></td>
+</td></tr></table>
+
+<!-- START FOOTER -->
+<br>
+<center>
+<a href="g3.shtml#top"><font size=5>^^^</font> Top <font size=5>^^^</font></a><br><br>
+</center>
+
+
+<!-- END FOOTER -->
+
+</span>
+</div>
+</div>
+
+<!-- END CONTENT -->
+
+
+</body></html>
+
+<!--
+
+-->
